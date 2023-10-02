@@ -19,3 +19,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 💻 Projeto
 
 -- TOTALMENTE RESPONSIVO.
+https://foodpeek.vercel.app/#
+Acesse o link para visualizar o projeto
